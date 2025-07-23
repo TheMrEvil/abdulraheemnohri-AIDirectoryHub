@@ -1,0 +1,45 @@
+
+{
+  "title": "AIDirectorioHub",
+  "hero": {
+    "title": "Descubre el Futuro de la IA",
+    "subtitle": "Tu directorio curado de las últimas y mejores aplicaciones impulsadas por IA. Explora, innova y crea.",
+    "searchPlaceholder": "Busca cualquier herramienta de IA..."
+  },
+  "featuredTool": "Herramienta Destacada",
+  "categories": {
+    "title": "Categorías",
+    "allTools": "Todas las Herramientas",
+    "text": "Texto",
+    "video": "Video",
+    "code": "Código",
+    "image": "Imagen",
+    "audio": "Audio",
+    "productivity": "Productividad"
+  },
+  "noTools": {
+    "title": "No se encontraron herramientas",
+    "message": "Intenta ajustar tus criterios de búsqueda o filtro."
+  },
+  "tags": {
+    "new": "Nuevo"
+  },
+  "visitSite": "Visitar Sitio",
+  "loadMore": "Cargar Más",
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "builtWith": "Creado con ❤️ por un asistente de IA."
+  },
+  "donate": {
+    "title": "Apoya Nuestro Proyecto",
+    "description": "Tus contribuciones nos ayudan a mantener y hacer crecer AIDirectoryHub.",
+    "qrTitle": "Para usuarios en Pakistán",
+    "qrDescription": "Escanea este código QR con tu aplicación JazzCash para donar.",
+    "internationalTitle": "Soporte Internacional",
+    "buyMeACoffee": "Invítame a un café",
+    "redirectMessage": "Serás redirigido a un sitio web externo para completar tu donación.",
+    "thanks": "¡Gracias por tu apoyo!",
+    "supportersTitle": "Nuestros Colaboradores",
+    "supportersDescription": "¡Un enorme agradecimiento a todos los que han apoyado este proyecto!"
+  }
+}

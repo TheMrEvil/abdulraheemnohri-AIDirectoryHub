@@ -1,0 +1,8 @@
+[
+  { "name": "Text", "icon": "FileText" },
+  { "name": "Video", "icon": "Video" },
+  { "name": "Code", "icon": "Code" },
+  { "name": "Image", "icon": "ImageIcon" },
+  { "name": "Audio", "icon": "Music" },
+  { "name": "Productivity", "icon": "GanttChartSquare" }
+]

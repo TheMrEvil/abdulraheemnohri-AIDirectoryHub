@@ -1,0 +1,312 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "A conversational AI model that can generate human-like text, answer questions, and assist with various writing tasks.",
+    "url": "https://chat.openai.com/",
+    "category": "Text",
+    "tags": ["Freemium"],
+    "date_added": "2023-01-15",
+    "logo": "https://chat.openai.com/favicon.ico",
+    "data-ai-hint": "robot chat"
+  },
+  {
+    "name": "Runway ML",
+    "description": "An AI video editing platform with features like text-to-video, image-to-video, and various magical AI tools for creators.",
+    "url": "https://runwayml.com/",
+    "category": "Video",
+    "tags": ["Paid", "Freemium"],
+    "date_added": "2024-07-28",
+    "logo": "https://www.runwayml.com/favicon.ico",
+    "data-ai-hint": "film strip"
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "An AI pair programmer that helps you write code faster and with less work. It draws context from comments and code to suggest individual lines and whole functions instantly.",
+    "url": "https://github.com/features/copilot",
+    "category": "Code",
+    "tags": ["Paid"],
+    "date_added": "2023-06-21",
+    "logo": "https://github.githubassets.com/favicons/favicon.svg",
+    "data-ai-hint": "code brackets"
+  },
+  {
+    "name": "Midjourney",
+    "description": "An independent research lab that produces an AI program that creates images from textual descriptions.",
+    "url": "https://www.midjourney.com/",
+    "category": "Image",
+    "tags": ["Paid"],
+    "date_added": "2023-03-12",
+    "logo": "https://www.midjourney.com/favicon.ico",
+    "data-ai-hint": "abstract art"
+  },
+  {
+    "name": "Descript",
+    "description": "An all-in-one audio and video editor that makes editing as easy as a word doc. It includes AI-powered features like transcription and voice cloning.",
+    "url": "https://www.descript.com/",
+    "category": "Audio",
+    "tags": ["Freemium"],
+    "date_added": "2023-09-05",
+    "logo": "https://www.descript.com/favicon.ico",
+    "data-ai-hint": "sound wave"
+  },
+  {
+    "name": "Notion AI",
+    "description": "A productivity tool that integrates AI to help you write, brainstorm, edit, summarize, and more, right inside your Notion workspace.",
+    "url": "https://www.notion.so/product/ai",
+    "category": "Productivity",
+    "tags": ["Paid", "Add-on"],
+    "date_added": "2024-02-23",
+    "logo": "https://www.notion.so/favicon.ico",
+    "data-ai-hint": "document checkmark"
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "An AI system by OpenAI that can create realistic images and art from a description in natural language.",
+    "url": "https://openai.com/dall-e-3",
+    "category": "Image",
+    "tags": ["Freemium"],
+    "date_added": "2024-04-10",
+    "logo": "https://openai.com/favicon.ico",
+    "data-ai-hint": "paint palette"
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "AI-powered text-to-speech and voice cloning software. Generate high-quality spoken audio in any voice, style, and language.",
+    "url": "https://elevenlabs.io/",
+    "category": "Audio",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2024-05-20",
+    "logo": "https://elevenlabs.io/favicon.ico",
+    "data-ai-hint": "voice microphone"
+  },
+  {
+    "name": "Synthesia",
+    "description": "Create professional videos with AI avatars and voiceovers in minutes. No actors, cameras or microphones needed.",
+    "url": "https://www.synthesia.io/",
+    "category": "Video",
+    "tags": ["Paid"],
+    "date_added": "2023-11-30",
+    "logo": "https://placehold.co/40x40.png",
+    "data-ai-hint": "person avatar"
+  },
+  {
+    "name": "Replit Ghostwriter",
+    "description": "The AI coding assistant in Replit that helps you code faster. It offers code completion, generation, explanation, and transformation.",
+    "url": "https://replit.com/ghostwriter",
+    "category": "Code",
+    "tags": ["Paid", "Freemium"],
+    "date_added": "2024-06-15",
+    "logo": "https://replit.com/favicon.ico",
+    "data-ai-hint": "ghost code"
+  },
+  {
+    "name": "Jasper",
+    "description": "AI Content Platform that helps your team create high-quality content 10x faster. From blog posts to marketing copy, Jasper can do it all.",
+    "url": "https://www.jasper.ai/",
+    "category": "Text",
+    "tags": ["Paid", "Freemium"],
+    "date_added": "2024-03-18",
+    "logo": "https://www.jasper.ai/favicon.ico",
+    "data-ai-hint": "writing robot"
+  },
+  {
+    "name": "Canva AI Magic Studio",
+    "description": "A suite of AI-powered tools within Canva that can generate images, write copy, create presentations, and automate design tasks.",
+    "url": "https://www.canva.com/magic-studio/",
+    "category": "Image",
+    "tags": ["Freemium", "Add-on"],
+    "date_added": "2024-07-01",
+    "logo": "https://www.canva.com/favicon.ico",
+    "data-ai-hint": "design magic"
+  },
+  {
+    "name": "Tome",
+    "description": "The AI-native research and presentation platform. Transform your ideas into compelling visual stories, presentations, and one-pagers.",
+    "url": "https://tome.app/",
+    "category": "Productivity",
+    "tags": ["Freemium"],
+    "date_added": "2024-06-25",
+    "logo": "https://tome.app/favicon.ico",
+    "data-ai-hint": "presentation slides"
+  },
+  {
+    "name": "Kling AI",
+    "description": "A powerful AI video generator that creates high-quality videos from text prompts or images, with features like consistent character design and multiple camera angles.",
+    "url": "https://www.klingai.com/",
+    "category": "Video",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.klingai.com/favicon.ico",
+    "data-ai-hint": "video camera"
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "An AI-powered image generator integrated into Adobe's ecosystem, designed for creating and editing images with text prompts, safe for commercial use.",
+    "url": "https://www.adobe.com/products/firefly.html",
+    "category": "Image",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.adobe.com/favicon.ico",
+    "data-ai-hint": "digital canvas"
+  },
+  {
+    "name": "Claude",
+    "description": "A conversational AI model by Anthropic, designed for safe and ethical text generation, capable of summarizing, coding MOE coding, and creating content.",
+    "url": "https://www.anthropic.com/claude",
+    "category": "Text",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.anthropic.com/favicon.ico",
+    "data-ai-hint": "ethical chat"
+  },
+  {
+    "name": "Invideo AI",
+    "description": "An AI video generator that creates videos from text prompts, automatically adding scripts, stock media, voiceovers, and transitions.",
+    "url": "https://invideo.io/",
+    "category": "Video",
+    "tags": ["Freemium"],
+    "date_added": "2025-07-22",
+    "logo": "https://web-assets.invideo.io/common/prod/logos/blue_logo.svg",
+    "data-ai-hint": "video montage"
+  },
+  {
+    "name": "Tabnine",
+    "description": "An AI-powered code completion tool that supports multiple programming languages and IDEs, enhancing developer productivity with real-time suggestions.",
+    "url": "https://www.tabnine.com/",
+    "category": "Code",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.tabnine.com/favicon.ico",
+    "data-ai-hint": "code autocomplete"
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "An open-source AI model for generating high-quality images from text prompts, widely used for creative and artistic projects.",
+    "url": "https://stability.ai/stable-diffusion",
+    "category": "Image",
+    "tags": ["Freemium", "Open-Source"],
+    "date_added": "2025-07-22",
+    "logo": "https://stability.ai/favicon.ico",
+    "data-ai-hint": "art diffusion"
+  },
+  {
+    "name": "Perplexity AI",
+    "description": "A conversational AI search tool that generates concise, sourced answers to queries, ideal for research and content creation.",
+    "url": "https://www.perplexity.ai/",
+    "category": "Text",
+    "tags": ["Freemium"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.perplexity.ai/favicon.ico",
+    "data-ai-hint": "search answer"
+  },
+  {
+    "name": "Hailuo AI",
+    "description": "An AI video platform offering text-to-video, image-to-video, and AI voice cloning, known for strong prompt adherence and visual quality.",
+    "url": "https://www.hailuo.ai/",
+    "category": "Video",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://www.hailuo.ai/favicon.ico",
+    "data-ai-hint": "cinematic frame"
+  },
+  {
+    "name": "Murf AI",
+    "description": "An AI text-to-speech platform that generates human-like voiceovers for videos, presentations, and audiobooks in multiple languages.",
+    "url": "https://murf.ai/",
+    "category": "Audio",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-07-22",
+    "logo": "https://murf.ai/favicon.ico",
+    "data-ai-hint": "voice wave"
+  },
+  {
+    "name": "Gemini",
+    "description": "Google's multimodal AI model that generates text, images, and code, integrated with Google's ecosystem for versatile content creation.",
+    "url": "https://gemini.google.com/",
+    "category": "Text",
+    "tags": ["Freemium"],
+    "date_added": "2025-07-22",
+    "logo": "https://gemini.google.com/favicon.ico",
+    "data-ai-hint": "multimodal AI"
+  },
+  {
+    "name": "Hunyuan",
+    "description": "An open-source text-to-video AI model known for generating ultra-realistic videos with intricate textures, popular for creative video projects.",
+    "url": "https://huggingface.co/TencentARC/Hunyuan",
+    "category": "Video",
+    "tags": ["Open-Source"],
+    "date_added": "2025-07-22",
+    "logo": "https://huggingface.co/favicon.ico",
+    "data-ai-hint": "realistic video"
+  },
+  {
+    "name": "CodeLLaMA",
+    "description": "An open-source AI model optimized for code generation, offering efficient code completion and generation for multiple programming languages.",
+    "url": "https://huggingface.co/codellama/CodeLLaMA",
+    "category": "Code",
+    "tags": ["Open-Source"],
+    "date_added": "2025-07-22",
+    "logo": "https://huggingface.co/favicon.ico",
+    "data-ai-hint": "code generation"
+  },
+  {
+    "name": "AI Dungeon",
+    "description": "An AI-powered text adventure game that generates dynamic stories based on user input, providing an immersive interactive experience.",
+    "url": "https://play.aidungeon.io/",
+    "category": "Text",
+    "tags": ["Freemium"],
+    "date_added": "2025-08-01",
+    "logo": "https://play.aidungeon.io/favicon.ico",
+    "data-ai-hint": "adventure game"
+  },
+  {
+    "name": "Lumen5",
+    "description": "An AI video creation platform that transforms text content into engaging videos with automated editing and media library access.",
+    "url": "https://lumen5.com/",
+    "category": "Video",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-08-01",
+    "logo": "https://storage.googleapis.com/lumen5-site-images/L5-logo/2024/Lumen5-PrimaryLogo.svg",
+    "data-ai-hint": "video editing"
+  },
+  {
+    "name": "DeepL Translator",
+    "description": "An AI-powered language translation tool known for its accuracy and natural language understanding.",
+    "url": "https://www.deepl.com/translator",
+    "category": "Text",
+    "tags": ["Freemium"],
+    "date_added": "2025-08-01",
+    "logo": "https://www.deepl.com/favicon.ico",
+    "data-ai-hint": "language translation"
+  },
+  {
+    "name": "Grammarly AI",
+    "description": "An AI-powered writing assistant that helps improve grammar, spelling, punctuation, clarity, engagement, and delivery.",
+    "url": "https://www.grammarly.com/",
+    "category": "Text",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-08-01",
+    "logo": "https://www.grammarly.com/favicon.ico",
+    "data-ai-hint": "writing assistant"
+  },
+  {
+    "name": "Auto-GPT",
+    "description": "An experimental open-source application showcasing the capabilities of the GPT-4 language model. It autonomously performs tasks by chaining together LLM \"thoughts\".",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "category": "Code",
+    "tags": ["Open-Source"],
+    "date_added": "2025-08-01",
+    "logo": "https://github.githubassets.com/favicons/favicon.svg",
+    "data-ai-hint": "autonomous agent"
+  },
+  {
+    "name": "Fireflies.ai",
+    "description": "An AI meeting assistant that records, transcribes, and summarizes your meetings.",
+    "url": "https://fireflies.ai/",
+    "category": "Productivity",
+    "tags": ["Freemium", "Paid"],
+    "date_added": "2025-08-01",
+    "logo": "https://fireflies.ai/favicon.ico",
+    "data-ai-hint": "meeting notes"
+  }
+]

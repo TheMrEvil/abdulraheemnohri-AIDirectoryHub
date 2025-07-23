@@ -1,0 +1,45 @@
+
+{
+  "title": "AIDirectoryHub",
+  "hero": {
+    "title": "Discover the Future of AI",
+    "subtitle": "Your curated directory to the latest and greatest AI-powered applications. Explore, innovate, and create.",
+    "searchPlaceholder": "Search for any AI tool..."
+  },
+  "featuredTool": "Featured Tool",
+  "categories": {
+    "title": "Categories",
+    "allTools": "All Tools",
+    "text": "Text",
+    "video": "Video",
+    "code": "Code",
+    "image": "Image",
+    "audio": "Audio",
+    "productivity": "Productivity"
+  },
+  "noTools": {
+    "title": "No tools found",
+    "message": "Try adjusting your search or filter criteria."
+  },
+  "tags": {
+    "new": "New"
+  },
+  "visitSite": "Visit Site",
+  "loadMore": "Load More",
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with ❤️ by an AI assistant."
+  },
+  "donate": {
+    "title": "Support Our Project",
+    "description": "Your contributions help us maintain and grow AIDirectoryHub.",
+    "qrTitle": "For users in Pakistan",
+    "qrDescription": "Scan this QR code with your JazzCash app to donate.",
+    "internationalTitle": "International Support",
+    "buyMeACoffee": "Buy Me a Coffee",
+    "redirectMessage": "You will be redirected to an external website to complete your donation.",
+    "thanks": "Thank you for your support!",
+    "supportersTitle": "Our Supporters",
+    "supportersDescription": "A huge thank you to everyone who has supported this project!"
+  }
+}
