@@ -308,5 +308,17 @@
     "date_added": "2025-08-01",
     "logo": "https://fireflies.ai/favicon.ico",
     "data-ai-hint": "meeting notes"
+  },
+  {
+    "name": "Auferet",
+    "description": "AI game master for solo text adventures and tabletop RPGs that remembers your characters and story and reads your own uploaded lore.",
+    "url": "https://auferet.com",
+    "category": "Text",
+    "tags": [
+      "Freemium"
+    ],
+    "date_added": "2026-06-23",
+    "logo": "https://auferet.com/favicon.ico",
+    "data-ai-hint": "fantasy adventure"
   }
 ]
